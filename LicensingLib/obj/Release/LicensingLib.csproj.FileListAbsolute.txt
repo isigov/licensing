@@ -1,0 +1,10 @@
+C:\Users\DarkSel\AppData\Local\Temporary Projects\LicensingLib\bin\Release\LicensingLib.dll
+C:\Users\DarkSel\AppData\Local\Temporary Projects\LicensingLib\bin\Release\LicensingLib.pdb
+C:\Users\DarkSel\AppData\Local\Temporary Projects\LicensingLib\obj\Release\ResolveAssemblyReference.cache
+C:\Users\DarkSel\AppData\Local\Temporary Projects\LicensingLib\obj\Release\LicensingLib.dll
+C:\Users\DarkSel\AppData\Local\Temporary Projects\LicensingLib\obj\Release\LicensingLib.pdb
+C:\Users\DarkSel\documents\visual studio 2010\Projects\LicensingLib\LicensingLib\bin\Release\LicensingLib.dll
+C:\Users\DarkSel\documents\visual studio 2010\Projects\LicensingLib\LicensingLib\bin\Release\LicensingLib.pdb
+C:\Users\DarkSel\documents\visual studio 2010\Projects\LicensingLib\LicensingLib\obj\Release\ResolveAssemblyReference.cache
+C:\Users\DarkSel\documents\visual studio 2010\Projects\LicensingLib\LicensingLib\obj\Release\LicensingLib.dll
+C:\Users\DarkSel\documents\visual studio 2010\Projects\LicensingLib\LicensingLib\obj\Release\LicensingLib.pdb

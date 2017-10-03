@@ -1,0 +1,5 @@
+C:\Users\DarkSel\Documents\Visual Studio 2010\Projects\LicensingLib\LicensingLib\bin\Debug\LicensingLib.dll
+C:\Users\DarkSel\Documents\Visual Studio 2010\Projects\LicensingLib\LicensingLib\bin\Debug\LicensingLib.pdb
+C:\Users\DarkSel\Documents\Visual Studio 2010\Projects\LicensingLib\LicensingLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DarkSel\Documents\Visual Studio 2010\Projects\LicensingLib\LicensingLib\obj\Debug\LicensingLib.dll
+C:\Users\DarkSel\Documents\Visual Studio 2010\Projects\LicensingLib\LicensingLib\obj\Debug\LicensingLib.pdb

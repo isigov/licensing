@@ -1,0 +1,31 @@
+<SmartAssemblyProject ProjectID="{4bca8b99-c4c8-4f1d-be68-534a72afaa28}" Version="2.0">
+    <MainAssemblyFileName>.\LicensingLib.dll</MainAssemblyFileName>
+    <Configuration Name="Release">
+        <ApplicationName />
+        <Destination DestinationFileName="..\..\..\..\..\..\..\Desktop\DarkSel Licensing.dll" />
+        <Assemblies>
+            <Assembly AssemblyName="LicensingLib, Culture=neutral, PublicKeyToken=null">
+                <Merging>
+                    <MemberRefsProxy Proxy="1" />
+                    <Pruning Prune="1">
+                        <Exclusion />
+                    </Pruning>
+                    <Obfuscation Obfuscate="1">
+                        <Exclusion />
+                    </Obfuscation>
+                    <ControlFlow Obfuscate="1" ObfuscationLevel="3" />
+                    <StringsEncoding />
+                </Merging>
+            </Assembly>
+        </Assemblies>
+        <Options>
+            <Obfuscation FieldsNameMangling="3" NameMangling="3" />
+            <ExceptionReporting />
+            <StrongNameSigning KeyFileName=".\Key.snk" Sign="1" />
+            <OtherProtections AddIncorrectMetadata="1" AddMetadataStream="1" SuppressIldasm="1" />
+            <StringsEncoding Compress="1" Encode="1" UseCache="1" UseImprovedEncoding="1" />
+            <OtherOptimizations SealClasses="1" />
+            <Debugging CreatePDB="0" />
+        </Options>
+    </Configuration>
+</SmartAssemblyProject>
